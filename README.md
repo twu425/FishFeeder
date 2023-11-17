@@ -9,8 +9,7 @@ Upload the micropython code to the raspberry pi. It is currently set to feed twi
 This is a remix of a model by a user named Jo_5 on thingiverse, modified to function with the smaller Micro Servo and a Raspberry Pi instead of an Arduino. I have since been unable to find the original creator. 
 
 3d Model:
-
-[![image](https://github.com/twu425/FishFeeder/assets/82834362/83645ba7-40c2-46b4-bece-5e6480f82c7e)](https://github.com/twu425/FishFeeder/blob/master/images/3d%20Model.png)
+![3d Model](https://github.com/twu425/FishFeeder/assets/82834362/f47fb8ee-0366-41aa-8b15-10d429774c65)
 
 Wiring Diagram (Very simple thanks to the micro servo working with the pico's 3v supply):
 
