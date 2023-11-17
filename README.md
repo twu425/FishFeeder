@@ -12,8 +12,7 @@ This is a remix of a model by a user named Jo_5 on thingiverse, modified to func
 ![3d Model](https://github.com/twu425/FishFeeder/assets/82834362/f47fb8ee-0366-41aa-8b15-10d429774c65)
 
 Wiring Diagram (Very simple thanks to the micro servo working with the pico's 3v supply):
-
-![Untitled](https://github.com/twu425/FishFeeder/assets/82834362/24f26dfc-354d-4960-bc85-1cc4a62ddd98)
+![diagram](https://github.com/twu425/FishFeeder/assets/82834362/af1b32a9-9cc3-48f2-9ea8-c6435f9acb0c)
 
 Assembled Model:
 
