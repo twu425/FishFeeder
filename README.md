@@ -17,4 +17,4 @@ Wiring Diagram (Very simple thanks to the micro servo working with the pico's 3v
 Assembled Model:
 
 
-Notes: Make sure your house doesn't have ants. My original prototype was unceremoniously deccomissioned after my sister sprayed bug killer all over the electronics. 
+Notes: Make sure your house doesn't have ants. My original prototype was unceremoniously decomissioned after my sister sprayed bug killer all over the electronics. 
