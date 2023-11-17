@@ -13,3 +13,8 @@ This is a remix of a model by a user named Jo_5 on thingiverse, modified to func
 
 Wiring Diagram (Very simple thanks to the micro servo working with the pico's 3v supply):
 ![Untitled](https://github.com/twu425/FishFeeder/assets/82834362/24f26dfc-354d-4960-bc85-1cc4a62ddd98)
+
+Assembled Model:
+
+
+Notes: Make sure your house doesn't have ants. My original prototype was unceremoniously deccomissioned after my sister sprayed bug killer all over the electronics. 
