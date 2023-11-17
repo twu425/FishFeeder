@@ -19,5 +19,6 @@ Wiring Diagram (Very simple thanks to the micro servo working with the pico's 3v
 Assembled Model:
 * Note: Make sure your house doesn't have ants. My original prototype was unceremoniously decomissioned after my sister sprayed bug killer all over the electronics.
 
-* My original prototype was made out of woods, and functioned terribly* *
+
+_My original prototype was made out of woods, and functioned terribly_
 ![707f33596149oC5F2ArD](https://github.com/twu425/FishFeeder/assets/82834362/c13c1598-3bd5-4034-b24a-5ae0afff85cf)
