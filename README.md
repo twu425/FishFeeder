@@ -20,5 +20,5 @@ Assembled Model:
 * Note: Make sure your house doesn't have ants. My original prototype was unceremoniously decomissioned after my sister sprayed bug killer all over the electronics.
 
 
-_My original prototype was made out of woods, and functioned terribly_
+_My original prototype was made out of wood, and would only be able to hold a dozen packets of food. It was difficult to restock since you could spill fish food trying to get it in the holes._
 ![707f33596149oC5F2ArD](https://github.com/twu425/FishFeeder/assets/82834362/c13c1598-3bd5-4034-b24a-5ae0afff85cf)
